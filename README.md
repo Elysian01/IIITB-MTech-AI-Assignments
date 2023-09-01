@@ -1,4 +1,4 @@
-## MTECH AI Assignments
+## IIITB MTECH AI Assignments
 
-Github repo which includes all of my ML/DL/NLP/Data Science based assignments done in my MTech years.
+Github repo which includes all of my ML/DL/NLP/Data science-based assignments done in my MTech years.
 
